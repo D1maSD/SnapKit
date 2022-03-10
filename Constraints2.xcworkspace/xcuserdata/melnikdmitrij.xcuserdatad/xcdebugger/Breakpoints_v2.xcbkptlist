@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5B1827E7-51A1-4BF2-9FF3-A0E3D2AF199E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09C644BF-2683-4567-B6EA-5D5787D9D1E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Constraints2/TextField.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "TextField"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "09C644BF-2683-4567-B6EA-5D5787D9D1E4 - 28682db5011e9e71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Constraints2.TextField.padding.getter : __C.UIEdgeInsets"
+                  moduleName = "Constraints2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/melnikdmitrij/Desktop/%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82/Constraints2/Constraints2/TextField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  uuid = "09C644BF-2683-4567-B6EA-5D5787D9D1E4 - e68f8ff2395e420c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Constraints2.TextField.init(frame: __C.CGRect) -&gt; Constraints2.TextField"
+                  moduleName = "Constraints2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/melnikdmitrij/Desktop/%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82/Constraints2/Constraints2/TextField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "09C644BF-2683-4567-B6EA-5D5787D9D1E4 - 70630639da48fd80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Constraints2.TextField.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Constraints2.TextField&gt;"
+                  moduleName = "Constraints2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/melnikdmitrij/Desktop/%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82/Constraints2/Constraints2/TextField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "82">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
